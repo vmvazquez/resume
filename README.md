@@ -1,27 +1,37 @@
-## Welcome to GitHub Pages
+## Resume
 
-You can use the [editor on GitHub](https://github.com/vmvazquez/resume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Victor Vazquez
+***
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Skills
+-     Primary Language: Java
+-     Secondary Languages: Python, C++
+-     Foreing language: Spanish speaker
 
-### Markdown
+#### Education
+MIRACOSTA COLLEGE, OCEANSIDE, CALIFORNIA
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_Computer Science, Expected graduation, May 2019_
 
-```markdown
-Syntax highlighted code block
+ **Related Course Work:**
+  - Introduction to Java
+  - Advanced Concepts of Java
+  - Data Strcutures and Algorithms in Java
+  - Introduction to C++
+  - Introduction to Python
 
-Hello world
-## Header 2
-### Header 3
+#### Work Experience
+MIRACOSTA COLLEGE, OCEANSIDE, CALIFORNIA 
 
-- Bulleted  This is my new list
-- List
+_Student Ambassador, July 2017 – Present_
+-  	I lead prospective students through MiraCosta College for tours and explain all the resources that MiraCosta has to offer
+- 	I help prospective students apply to MiraCosta College and FASFA
 
-1. Numbered
-2. List
+- 	I give presentations to High schools, Middle schools and Elementary schools to inform students and parents
 
-**Bold** and _Italic_ and `Code` text
+    about the benefits of going to a community college
 
-[Link](url) and ![Image](src)
-```
+#### Awards
+_Elizabeth Reid Memorial Endowed Scholarship_
+
+_President's List 2017 - 2018_
